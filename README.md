@@ -4,8 +4,11 @@ Image Gallery Project
 Student Information
 
 Name: Priyanka Balerao
+
 Course: B.Tech
+
 College: N.B.K.R Institute of Science and Technology (NBKRIST)
+
 Department: Computer Science and Engineering
 
 Project Overview
@@ -58,9 +61,7 @@ Author
 
 Priyanka Balerao
 B.Tech Student, Computer Science and Engineering
-N.B.K.R Institute of Science and Technology (NBKRIST)![Uploading image.png…]()
-![Uploading image.png…]()
-<img width="899" height="441" alt="image" src="https://github.com/user-attachments/assets/7cf2adc2-a827-4061-9421-19c86a8f76b2" />
-<img width="898" height="368" alt="image" src="https://github.com/user-attachments/assets/2822f6f9-7288-40f9-92a0-da6a8e8bc99b" />
-<img width="899" height="324" alt="image" src="https://github.com/user-attachments/assets/b2a97694-5511-42c9-ac1e-2b4785200e74" />
-<img width="893" height="446" alt="image" src="https://github.com/user-attachments/assets/a0ae361a-7d58-4499-8f4e-f3d1c8dc8bfb" />
+N.B.K.R Institute of Science and Technology (NBKRIST)
+<img width="889" height="447" alt="image" src="https://github.com/user-attachments/assets/62309693-1ffa-494d-98ab-dae5218be4b0" />
+
+<img width="889" height="447" alt="image" src="https://github.com/user-attachments/assets/6d798448-81b7-41ea-bbd4-03c0872465a1" />
