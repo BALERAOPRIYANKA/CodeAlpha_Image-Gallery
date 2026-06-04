@@ -64,4 +64,7 @@ B.Tech Student, Computer Science and Engineering
 N.B.K.R Institute of Science and Technology (NBKRIST)
 <img width="889" height="447" alt="image" src="https://github.com/user-attachments/assets/62309693-1ffa-494d-98ab-dae5218be4b0" />
 
-<img width="889" height="447" alt="image" src="https://github.com/user-attachments/assets/6d798448-81b7-41ea-bbd4-03c0872465a1" />
+<img width="898" height="368" alt="Screenshot 2026-06-04 150545" src="https://github.com/user-attachments/assets/bf24327f-6612-41e6-abf8-307f24a2251c" />
+
+
+
